@@ -14,12 +14,25 @@
     
     <item>
       <title>About me</title>
-      <link>/</link>
+      <link>/about/</link>
       <pubDate>Sat, 23 Feb 2019 12:26:16 +0100</pubDate>
       
-      <guid>/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m a Cologne/Bonn-based freelance software-engineer with tons of backend and a fair amount of frontend experience. In the past years I&amp;rsquo;ve worked mainly in the online-payment sector for international companies.
 Skills  German (native) / English (like an IT guy) Finisher Team player Secure coding Building frameworks, APIs, generic code and keeping things simple I like scrum  My tech-stack  Modern Java (10+ years) Spring/-boot/-data/-security/etc (10+ years) SQL (20+ years) Docker Concourse CI Modern JavaScript (the good parts) (4+ years) React Web EmberJS (3+ years) GWT (3+ years) iOS/Objectiv-C (2+ years) C/C++/Delphi/Basic/Assembler in past life I have absolutely no knowledge of PHP  References I&amp;rsquo;ve worked in projects for Aixigo, BMW, ClickandBuy, Draeger, Ford, PayCo, PayU, Trimplement, Vaillant, some banks and insurance companies.</description>
+    </item>
+    
+    <item>
+      <title>Contact/Imprint</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 23 Feb 2019 12:26:16 +0100</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Dirk Winkler
+Altmühlstr. 22
+53332 Bornheim
+Germany
+mail@dirk-winkler.de</description>
     </item>
     
   </channel>
